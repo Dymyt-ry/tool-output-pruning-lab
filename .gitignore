@@ -1,0 +1,17 @@
+.venv/
+.hf/
+__pycache__/
+*.pyc
+pairs*.jsonl
+denylist.txt
+.selftest.jsonl
+salt.txt
+.venv-cuda/
+.cuda-install.log
+.model-dl.log
+.models/
+.pruner-dl.log
+.selftest-deny.txt
+*.log
+PROJECT.md
+*.bundle
